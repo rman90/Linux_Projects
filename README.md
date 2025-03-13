@@ -156,8 +156,8 @@ print_color_message "green" "Deployment completed Successfully"
 ### **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/rman90/Linux_Projects.git
+cd ~/rman90/Linux_Projects.git
 ```
 
 ### **Step 2: Run the Script**
