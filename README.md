@@ -52,9 +52,9 @@ git clone https://github.com/rman90/Linux_Projects.git
 ## **💬 Connect With Me**
 
 I’m always open to discussions, collaborations, and tech conversations. Let’s connect!  
-📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email**: [nesbittross711@gmail.com)  
 💼 **LinkedIn**: [https://www.linkedin.com/in/ross-nesbitt-395647138/](https://www.linkedin.com/in/ross-nesbitt-395647138/)  
-🐦 **Twitter**: [@yourhandle]  
+
 
 If you find value here, drop a ⭐ and let's grow together. 
 
