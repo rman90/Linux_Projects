@@ -52,7 +52,7 @@ git clone https://github.com/rman90/Linux_Projects.git
 ## **💬 Connect With Me**
 
 I’m always open to discussions, collaborations, and tech conversations. Let’s connect!  
-📧 **Email**: [nesbittross711@gmail.com)  
+📧 **Email**: [nesbittross711@gmail.com]  
 💼 **LinkedIn**: [https://www.linkedin.com/in/ross-nesbitt-395647138/](https://www.linkedin.com/in/ross-nesbitt-395647138/)  
 
 
