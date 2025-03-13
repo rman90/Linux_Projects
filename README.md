@@ -1,8 +1,8 @@
-# **Welcome to My GitHub – A Launchpad for Your Tech Career** 🚀
+# **Welcome to My GitHub – A Space for Learning & Collaboration** 🚀
 
 ### **👋 Hi, I'm Ross**
 
-A tech enthusiast, automation engineer, and advocate for learning through real-world projects. My goal? To provide a space where aspiring IT professionals, developers, and engineers can gain **hands-on experience**, build **portfolio-ready projects**, and confidently step into the tech industry.
+A tech enthusiast, automation engineer, and advocate for learning through real-world projects. My goal? To have a space where I can demonstrate my **hands-on experience** in engineering, build **portfolio-ready projects**, and collaborate with others in the field.
 
 ---
 
@@ -52,9 +52,9 @@ git clone https://github.com/rman90/Linux_Projects.git
 ## **💬 Connect With Me**
 
 I’m always open to discussions, collaborations, and tech conversations. Let’s connect!  
-📧 **Email**: [nesbittross711@gmail.com)  
+📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
 💼 **LinkedIn**: [https://www.linkedin.com/in/ross-nesbitt-395647138/](https://www.linkedin.com/in/ross-nesbitt-395647138/)  
-  
+🐦 **Twitter**: [@yourhandle]  
 
 If you find value here, drop a ⭐ and let's grow together. 
 
